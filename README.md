@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34686599/README.md)
 # Touchline Manager — Starter Project
 
 A desktop football management simulation starter built with Electron, React and Phaser 3.
